@@ -1,0 +1,8 @@
+D:\Personal\TDDarts\TDDarts\bin\Debug\TDDarts.exe.config
+D:\Personal\TDDarts\TDDarts\bin\Debug\TDDarts.exe
+D:\Personal\TDDarts\TDDarts\bin\Debug\TDDarts.pdb
+D:\Personal\TDDarts\TDDarts\bin\Debug\OpenTK.dll
+D:\Personal\TDDarts\TDDarts\bin\Debug\OpenTK.xml
+D:\Personal\TDDarts\TDDarts\obj\Debug\TDDarts.csprojResolveAssemblyReference.cache
+D:\Personal\TDDarts\TDDarts\obj\Debug\TDDarts.exe
+D:\Personal\TDDarts\TDDarts\obj\Debug\TDDarts.pdb
